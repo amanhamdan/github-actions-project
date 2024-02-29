@@ -16,7 +16,7 @@ public class GithubCicdActionsApplication {
 //	git init
 //	git add README.md
 //	git commit -m "first commit"
-//	git branch -M main
+//	git branch -M main  //master
 //	git remote add origin https://github.com/amanhamdan/github-actions-project.git
 //	git push -u origin main
 
